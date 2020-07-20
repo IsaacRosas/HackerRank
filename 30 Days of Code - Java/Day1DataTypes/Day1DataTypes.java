@@ -38,7 +38,7 @@ public class Day1DataTypes {
         /* Concatenate and print the String variables on a new line; 
         	the 's' variable above should be printed first. */
         System.out.println(s + s2);
-
+        
         scan.close();
     }
 }

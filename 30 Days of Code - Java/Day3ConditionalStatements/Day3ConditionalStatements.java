@@ -30,7 +30,7 @@ public class Day3ConditionalStatements {
             else
                 System.out.println("Weird");   
         }
-
+        
         scanner.close();
     }
 }

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Solution{
+class Day8DictionariesAndMaps{
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

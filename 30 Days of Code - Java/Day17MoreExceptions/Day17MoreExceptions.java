@@ -1,7 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-//Write your code here
 class Calculator{
     int power(int n, int p)throws Exception{
         if(n<0 || p<0){
@@ -14,7 +13,7 @@ class Calculator{
     }
 }
 
-class Solution{
+class Day17MoreExceptions{
 
     public static void main(String[] args) {
     
